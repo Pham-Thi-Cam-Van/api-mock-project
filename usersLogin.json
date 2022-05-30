@@ -1,5 +1,4 @@
-{
-  "users": [
+[
     {
       "id": 1,
       "name": "Leanne Graham",
@@ -31,4 +30,3 @@
       "email": "Lucio_Hettinger@annie.ca"
     }
   ]
-}
